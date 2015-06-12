@@ -1,5 +1,0 @@
-<begin_plan>
-<begin_num_actions>
-0
-<end_num_actions>
-<end_plan>
