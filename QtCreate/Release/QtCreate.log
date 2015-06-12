@@ -1,0 +1,32 @@
+﻿生成启动时间为 2015/5/7 星期四 上午 11:37:58。
+     1>项目“E:\Visual Studio 2013 project\sf\QtCreate\QtCreate\QtCreate.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include /I.\GeneratedFiles\Release /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtCore /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtGui /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtWidgets /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtXml /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtXmlPatterns /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_XML_LIB /D QT_XMLPATTERNS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /FR"Release\\" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_qtcreate.cpp
+         qrc_qtcreate.cpp
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include /I.\GeneratedFiles\Release /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtCore /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtGui /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtWidgets /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtXml /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtXmlPatterns /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_XML_LIB /D QT_XMLPATTERNS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /FR"Release\\" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Release\moc_qtcreate.cpp main.cpp MFPSSchedule.cpp qtcreate.cpp Schedule.cpp Strategies.cpp
+         moc_qtcreate.cpp
+         main.cpp
+     1>main.cpp(1): warning C4068: 未知的杂注
+         MFPSSchedule.cpp
+         qtcreate.cpp
+         Schedule.cpp
+         Strategies.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Visual Studio 2013 project\sf\QtCreate\Win32\Release\\QtCreate.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.4.1\5.4\msvc2010_opengl\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib Qt5Xml.lib Qt5XmlPatterns.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\QtCreate.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"E:\Visual Studio 2013 project\sf\QtCreate\Win32\Release\QtCreate.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Visual Studio 2013 project\sf\QtCreate\Win32\Release\QtCreate.lib" /MACHINE:X86 Release\qrc_qtcreate.obj
+         Release\moc_qtcreate.obj
+         Release\main.obj
+         Release\MFPSSchedule.obj
+         Release\qtcreate.obj
+         Release\Schedule.obj
+         Release\Strategies.obj
+         QtCreate.vcxproj -> E:\Visual Studio 2013 project\sf\QtCreate\Win32\Release\QtCreate.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Visual Studio 2013 project\sf\QtCreate\Win32\Release\\QtCreate.exe;#1" /manifest Release\QtCreate.exe.intermediate.manifest
+       BscMake:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o"E:\Visual Studio 2013 project\sf\QtCreate\Win32\Release\QtCreate.bsc" /n Release\qrc_qtcreate.sbr Release\moc_qtcreate.sbr Release\main.sbr Release\MFPSSchedule.sbr Release\qtcreate.sbr Release\Schedule.sbr Release\Strategies.sbr
+     1>已完成生成项目“E:\Visual Studio 2013 project\sf\QtCreate\QtCreate\QtCreate.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:19.41
