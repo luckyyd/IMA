@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScheduleIndex>
+	<Partition>
+		<PartitionID>1</PartitionID>
+		<PartitionName>ACARSMaintInterfaceApp</PartitionName>
+		<PartitionPeriod>100</PartitionPeriod>
+		<PartitionDuration>10</PartitionDuration>
+		<PartitionOffset>10</PartitionOffset>
+		<PartitionPriority>1</PartitionPriority>
+		<PartitionIntensivePeriod>2</PartitionIntensivePeriod>
+		<PartitionDescription>Aircraft Communications Addressing and Reporting System</PartitionDescription>
+		<PartitionTimes>10</PartitionTimes>
+	</Partition>
+	<Partition>
+		<PartitionID>2</PartitionID>
+		<PartitionName>APP_AIRPORTSURFACEMAP</PartitionName>
+		<PartitionPeriod>50</PartitionPeriod>
+		<PartitionDuration>35</PartitionDuration>
+		<PartitionOffset>0</PartitionOffset>
+		<PartitionPriority>2</PartitionPriority>
+		<PartitionIntensivePeriod>1</PartitionIntensivePeriod>
+		<PartitionDescription>Show Map</PartitionDescription>
+		<PartitionTimes>10</PartitionTimes>
+	</Partition>
+	<Partition>
+		<PartitionID>3</PartitionID>
+		<PartitionName>APP_FMS_CORE</PartitionName>
+		<PartitionPeriod>50</PartitionPeriod>
+		<PartitionDuration>20</PartitionDuration>
+		<PartitionOffset>10</PartitionOffset>
+		<PartitionPriority>1</PartitionPriority>
+		<PartitionIntensivePeriod>2</PartitionIntensivePeriod>
+		<PartitionDescription>Flight Management System</PartitionDescription>
+		<PartitionTimes>10</PartitionTimes>
+	</Partition>
+	<Partition>
+		<PartitionID>4</PartitionID>
+		<PartitionName>APP_FMS_NAV</PartitionName>
+		<PartitionPeriod>50</PartitionPeriod>
+		<PartitionDuration>40</PartitionDuration>
+		<PartitionOffset>10</PartitionOffset>
+		<PartitionPriority>1</PartitionPriority>
+		<PartitionIntensivePeriod>2</PartitionIntensivePeriod>
+		<PartitionDescription>Flight Navigation</PartitionDescription>
+		<PartitionTimes>10</PartitionTimes>
+	</Partition>
+	<Partition>
+		<PartitionID>5</PartitionID>
+		<PartitionName>APP_HEALTH_MANAGER</PartitionName>
+		<PartitionPeriod>50</PartitionPeriod>
+		<PartitionDuration>20</PartitionDuration>
+		<PartitionOffset>10</PartitionOffset>
+		<PartitionPriority>3</PartitionPriority>
+		<PartitionIntensivePeriod>0</PartitionIntensivePeriod>
+		<PartitionDescription>Health Manager</PartitionDescription>
+		<PartitionTimes>10</PartitionTimes>
+	</Partition>
+	<Partition>
+		<PartitionID>6</PartitionID>
+		<PartitionName>OMSCockpitDisplayApp</PartitionName>
+		<PartitionPeriod>50</PartitionPeriod>
+		<PartitionDuration>5</PartitionDuration>
+		<PartitionOffset>10</PartitionOffset>
+		<PartitionPriority>2</PartitionPriority>
+		<PartitionIntensivePeriod>0</PartitionIntensivePeriod>
+		<PartitionDescription>Onboard Maintenance System</PartitionDescription>
+		<PartitionTimes>10</PartitionTimes>
+	</Partition>
+	<Partition>
+		<PartitionID>7</PartitionID>
+		<PartitionName>VIRTUALCONTROLAPP</PartitionName>
+		<PartitionPeriod>50</PartitionPeriod>
+		<PartitionDuration>5</PartitionDuration>
+		<PartitionOffset>50</PartitionOffset>
+		<PartitionPriority>1</PartitionPriority>
+		<PartitionIntensivePeriod>3</PartitionIntensivePeriod>
+		<PartitionDescription>Virtual Control</PartitionDescription>
+		<PartitionTimes>10</PartitionTimes>
+	</Partition>
+</ScheduleIndex>
+
