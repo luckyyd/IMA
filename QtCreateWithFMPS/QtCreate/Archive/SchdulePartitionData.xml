@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScheduleIndex>
+  <Partition>
+    <PartitionID>1</PartitionID>
+    <PartitionPeriod>15</PartitionPeriod>
+    <PartitionDuration>10</PartitionDuration>
+    <PartitionOffset>0</PartitionOffset>
+	<PartitionTimes>4</PartitionTimes>
+   </Partition>
+   <Partition>
+    <PartitionID>2</PartitionID>
+    <PartitionPeriod>30</PartitionPeriod>
+    <PartitionDuration>5</PartitionDuration>
+    <PartitionOffset>10</PartitionOffset>
+	<PartitionTimes>2</PartitionTimes>
+   </Partition>
+   <Partition>
+    <PartitionID>3</PartitionID>
+    <PartitionPeriod>60</PartitionPeriod>
+    <PartitionDuration>5</PartitionDuration>
+    <PartitionOffset>25</PartitionOffset>
+	<PartitionTimes>1</PartitionTimes>
+   </Partition>
+</ScheduleIndex>
