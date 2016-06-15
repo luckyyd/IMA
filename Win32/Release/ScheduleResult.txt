@@ -1,3 +1,0 @@
-<begin_num_actions>
-0
-<end_num_actions>
